@@ -1,0 +1,100 @@
+body {
+    background-color: #f5f7fa; 
+    font-family: 'Montserrat', 'Arial';
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 40px auto;
+    background-color: white;
+}
+
+.general-information {
+    margin: 30px;
+}
+
+li {
+    line-height: 24px;
+}
+
+.description {
+    margin: 40px;
+}
+
+.profession {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.proyects {
+
+}
+
+.experience {
+
+}
+
+.education {
+
+}
+
+/* Lateral Information */
+
+.secondary-information {
+    background-color: #1e2939;
+    padding: 40px 0;
+
+}
+.lateral-title {
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-top: 30px;
+}
+
+.contacts, .tech-skills, .soft-skills {
+    margin-left: 40px;
+
+}
+
+/* Seccion de contacto */
+
+.type-contact {
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    margin-right: 5px;
+
+}
+
+.info-contact {
+    color: gray;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+/* List Section */
+
+.lateral-list {
+    padding-left: 20px;
+}
+
+.lateral-list > li {
+    color: gold;
+}
+
+.elemento-lista-lateral {
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+}
